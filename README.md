@@ -1,3 +1,5 @@
+<img width="270" height="148" alt="image" src="https://github.com/user-attachments/assets/6ad0d454-9f96-4676-a46a-31365af042a9" />
+
 # 💰 ỨNG DỤNG QUẢN LÝ CHI TIÊU THÔNG MINH CHO SINH VIÊN DNU  
 **Smart Expense Management App for DNU Students**
 
@@ -145,6 +147,7 @@ flutter pub get
 
 # B4: Chạy ứng dụng
 flutter run
+
 
 
 

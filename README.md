@@ -129,6 +129,7 @@ Trong thời đại công nghệ số hiện nay, việc **quản lý chi tiêu 
 Phạm Đình Tuấn
 Khoa Công nghệ Thông tin – Đại học Đại Nam (DNU)
 📧 phamdinhtuan@dnu.edu.vn
+
 link tiktok video chuyển đổi số: https://www.tiktok.com/@untunne24/video/7563520994351009045
 ## 📦 Cách cài đặt và chạy ứng dụng
 
@@ -144,5 +145,6 @@ flutter pub get
 
 # B4: Chạy ứng dụng
 flutter run
+
 
 

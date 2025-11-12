@@ -1,5 +1,5 @@
 <p align="center">
-<img width="236" height="214" alt="image" src="https://github.com/user-attachments/assets/1a7d1b5a-ca8e-4126-9c79-2d044015bc81" />
+<img src="https://raw.githubusercontent.com/anhminhvdvn/CanhBaoDotNhap/main/images/logoDaiNam.png" width="150">
 </p>
 
 # 💰 ỨNG DỤNG QUẢN LÝ CHI TIÊU THÔNG MINH CHO SINH VIÊN DNU  
@@ -149,6 +149,7 @@ flutter pub get
 
 # B4: Chạy ứng dụng
 flutter run
+
 
 
 

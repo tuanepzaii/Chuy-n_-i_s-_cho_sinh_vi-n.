@@ -122,9 +122,6 @@ Trong thời đại công nghệ số hiện nay, việc **quản lý chi tiêu 
 | Họ và tên | Vai trò | Công việc chính |
 |------------|----------|----------------|
 | **Phạm Đình Tuấn** | Trưởng nhóm | Phân tích yêu cầu, lập trình chính, hoàn thiện báo cáo Overleaf |
-| **Nguyễn Văn A** | Thiết kế UI/UX | Thiết kế Figma, chỉnh sửa giao diện Flutter |
-| **Trần Thị B** | Kiểm thử | Viết test case, thử nghiệm tính năng |
-| **Lê Văn C** | Hỗ trợ kỹ thuật | Cấu hình môi trường, tối ưu hiệu suất ứng dụng |
 
 ---
 👨‍💻 Tác giả
@@ -146,3 +143,4 @@ flutter pub get
 
 # B4: Chạy ứng dụng
 flutter run
+

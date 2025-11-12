@@ -135,6 +135,7 @@ Khoa Công nghệ Thông tin – Đại học Đại Nam (DNU)
 📧 phamdinhtuan@dnu.edu.vn
 
 link tiktok video chuyển đổi số: https://www.tiktok.com/@untunne24/video/7563520994351009045
+link video giải thích code: http://yyoutube.com/watch?v=T83X59DUCdo
 ## 📦 Cách cài đặt và chạy ứng dụng
 
 ```bash
@@ -149,6 +150,7 @@ flutter pub get
 
 # B4: Chạy ứng dụng
 flutter run
+
 
 
 
